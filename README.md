@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotAlphaZero
-- 👀 I’m interested in Software development, Web development and Game development.
-- 🌱 I’m currently learning Data Structures And Algorithms.
+- 👀 I’m interested in Software development, Web development and Game development
+- 🌱 I’m currently learning Data Structures And Algorithms
 - 📫 How to reach me --> EMAIL => anadisharma15092000@gmail.com
 
 <!---
